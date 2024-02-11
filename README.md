@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Philip, and i am a Front-end Developer, and i mostly do my own small project, or even some group projects while im learning to code. 
+My name is Philip, and i am a Front-end Developer, and i mostly do my own small project, or even some group projects while im learning to code. I like frameworks like React and Vue. Furthermore, i enjoy the design process in general, specially the planning and doing wireframes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pschioeler)](https://github.com/anuraghazra/github-readme-stats)
 
